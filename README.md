@@ -31,7 +31,7 @@ HAL is designed to run in a Linux environment as a serial job on a dedicated pro
   * netcdf/intel/4.4.1.1
   * hdf5/intel/1.8.19
   * intel/oneapi/2021.1.0.2659
-* Navigate to the Source directory and compile the code with the command make
+* Navigate to the Source directory and compile the code with the command 'make'
 * Copy the resultant executable (ibm) to the home directory
 
 Detailed instructions on how to set up and run the model for different applications are provided in the documentation.
