@@ -39,4 +39,10 @@ Detailed instructions on how to set up and run the model for different applicati
 
 Young, E.F., Thorpe, S.E., Renner, A.H.H., Murphy, E.J. (2024). ‘Environmental and behavioural drivers of Antarctic krill distribution at the South Orkney Islands: a regional perspective’. Journal of Marine Systems, 241, https://doi.org/10.1016/j.jmarsys.2023.103920.
 
+Trathan, P.N., Warwick-Evans, V., Young, E.F., Friedlaender, A., Kim, J.H., Kokubun, N. (2022). ‘The ecosystem approach to management of the Antarctic krill fishery - the ‘devils are in the detail’ at small spatial and temporal scales’. Journal of Marine Systems, 225, https://doi.org/10.1016/j.jmarsys.2021.103598.
+
+
+
+
+
 
