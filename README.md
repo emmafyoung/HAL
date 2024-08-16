@@ -21,7 +21,6 @@ HAL is written in FORTRAN and has evolved over many years to now offer a range o
 
 In addition, the model has been adapted for the modelling of the fate of oil spills, and includes options for buoyant oil droplets and beaching. If no behaviours are chosen, the model simulates the passive transport of any neutrally-buoyant particle.
 
-
 ## Installation instructions
 
 HAL is designed to run in a Linux environment as a serial job on a dedicated processor. The following instructions assume a basic understanding of Linux commands.
@@ -35,3 +34,9 @@ HAL is designed to run in a Linux environment as a serial job on a dedicated pro
 * Copy the resultant executable (ibm) to the home directory
 
 Detailed instructions on how to set up and run the model for different applications are provided in the documentation.
+
+## Peer-reviewed articles using HAL
+
+Young, E.F., Thorpe, S.E., Renner, A.H.H., Murphy, E.J. (2024). ‘Environmental and behavioural drivers of Antarctic krill distribution at the South Orkney Islands: a regional perspective’. Journal of Marine Systems, 241, https://doi.org/10.1016/j.jmarsys.2023.103920.
+
+
