@@ -41,6 +41,21 @@ Young, E.F., Thorpe, S.E., Renner, A.H.H., Murphy, E.J. (2024). ‘Environmental a
 
 Trathan, P.N., Warwick-Evans, V., Young, E.F., Friedlaender, A., Kim, J.H., Kokubun, N. (2022). ‘The ecosystem approach to management of the Antarctic krill fishery - the ‘devils are in the detail’ at small spatial and temporal scales’. Journal of Marine Systems, 225, https://doi.org/10.1016/j.jmarsys.2021.103598.
 
+Campanella, F., Collins, M.A., Young, E.F., Laptikhovsky, V., Whomersley, P., van der Kooij, J. (2021). ‘First insight of Meso- and Bentho-Pelagic Fish Dynamics Around Remote Seamounts in the South Atlantic Ocean’. Frontiers in Marine Science, 8, doi: 10.3389/fmars.2021.663278.
+
+Silva, C.N.S., Young, E.F., Murphy, N.P., Bell, J.J., Green, B.S., Morley, S.A., Duhamel, G., Cockcroft, A.C., Strugnell, J.M. (2021). ‘Climatic change drives dynamic source-sink relationships in marine species with high dispersal potential’. Ecology and Evolution, doi: 10.1002/ece3.7204.
+
+Young, E.F., Tysklind, N., Meredith, M.P., de Bruyn, M., Belchier, M., Murphy, E.J., Carvalho, G.R. (2018). ‘Stepping stones to isolation: impacts of a changing climate on the connectivity of fragmented fish populations’, Evolutionary Applications, doi: 10.1111/eva.12613.
+
+Young, E.F., Belchier, M., Hauser, L., Horsburgh, G.J., Meredith, M.P., Murphy, E.J., Pascoal, S., Rock, J., Tysklind, N., Carvalho, G.R. (2015). ‘Oceanography and life history predict contrasting genetic population structure in two Antarctic fish species’. Evolutionary Applications, doi: 10.1111/eva.12259.
+
+Young, E.F., Thorpe, S.E., Banglawala, N., Murphy, E.J. (2014). 'Variability in transport pathways on and around the South Georgia shelf, Southern Ocean: implications for recruitment and retention', Journal of Geophysical Research: Oceans, 119, 1-12, doi: 10.1002/2013JC009348.
+
+Young, E.F., Rock, J., Meredith, M.P., Belchier, M., Murphy, E.J., Carvalho, G.R. (2012). ‘Physical and behavioural influences on larval fish retention: contrasting patterns in two Antarctic fishes ’. Marine Ecology Progress Series 465, 201-215.
+
+Fox, C.J., McCloughrie, P., Young, E.F., Nash, R.D.M. (2006). ‘The importance of individual behaviour for successful settlement of juvenile plaice (Pleurenectes platessa L.): a modelling and field study in the eastern Irish Sea’. Fisheries Oceanography, 15 (4), 301-313.
+
+
 
 
 
