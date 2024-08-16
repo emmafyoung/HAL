@@ -1,6 +1,6 @@
 - - - -
 # HAL
-Hydrodyanmics-based Algorithm for Lagrangian simulations
+Hydrodynamics-based Algorithm for Lagrangian simulations
 - - - -
 
 ## Introduction
