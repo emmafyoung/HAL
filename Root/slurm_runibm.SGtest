@@ -1,0 +1,27 @@
+#!/bin/bash
+#
+#SBATCH -o /homedir/slurm_job_output/job.%j.%N.out
+#SBATCH -D /homedir/HAL
+#SBATCH -J HAL_SGtest
+#SBATCH --time=6:00:00
+#
+# Send mail when the job beings, ends, fails or is requeued
+#SBATCH --mail-type=begin,end,fail,requeue
+#SBATCH --mail-user=email
+#
+#SBATCH --partition=medium
+#SBATCH --account=medium
+#
+# Load the module
+source /etc/profile.d/modules.sh
+module add hpc/intel/oneapi/2021.1.0.2659
+module add hpc/netcdf/intel/4.4.1.1
+#
+# Print date, run program, print date
+date
+ibm filenames.SGtest
+date
+#
+# To submit the job, run:
+# sbatch slurm_runibm.SGtest;
+

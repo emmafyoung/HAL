@@ -5,7 +5,7 @@
 
 ## Introduction
 
-HAL is a Lagrangian model for calculating the trajectories of the early life stages of marine biota, including the egg and larval phases of marine fish and the early life stages of crustacea such as krill and lobsters.
+HAL is a Lagrangian model for calculating the transport of zooplankton such as copepods, the egg and larval phases of marine fish, and the early life stages of crustacea such as krill and lobsters.
 
 ## Model Overview
 

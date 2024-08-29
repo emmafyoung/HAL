@@ -1,0 +1,15 @@
+INPUT
+/Inputdirectory/Inputfiles
+7
+ 1 model_spec.dat.SGtest
+ 1 particle_spec.dat.SGtest
+ 1 biology_spec.dat.SGtest
+ 1 forcingfiles.SGtest
+ 4 SG_mesh_hgr.nc
+ 4 SG_mesh_zgr.nc
+ 4 SG_mask.nc
+OUTPUT
+2
+/Outputdirectory/SGtest
+ 4 IBMout.nc
+ 2 restart.SGtest

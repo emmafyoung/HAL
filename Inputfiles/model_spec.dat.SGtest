@@ -1,0 +1,19 @@
+ 1800                         ! Output frequency, Outdt
+  5.000                       ! Horizontal diffusion coefficient, Ah (negative for model fields; m^2/s)
+  0.00010                     ! Vertical diffusion coefficient, Az (negative for model fields; m^2/s)
+  -13                         ! Random number seed, Iseed
+ 300                          ! Timestep, Dt (in secs)
+ 432000                       ! Source flow field temporal resolution, Dt2 (in secs)
+   3 12.0                     ! Start time (Julian days and hours) of first velocity file, Start_d, Start_h
+365                           ! Length of source flow data files, slength
+n                             ! Type of velocities used, veltyp (y = depth-mean)
+n                             ! Option to stop run at end of source vel data (for restart option)
+y                             ! Method of specifying particle location, Named (n = ellipse formulation)
+y                             ! Method of specifying particle release time, Namet (n = all released at same time)
+y                             ! Method of specifying particle depth, Nameh (n = all released at same depth)
+  50.000                      ! Specified start depth, deppart (particle depth if Nameh = n)
+    1                         ! Number of release periods
+   5.0   5.0  45.0            ! Ellipse parameters, aell, bell, dell
+
+
+

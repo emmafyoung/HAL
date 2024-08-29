@@ -24,7 +24,7 @@ C
 C       Set size and components of model here:
 C
         parameter
-     $ (im=580         ,jm=300         ,kb=75)
+     $ (im=380         ,jm=400         ,kb=75)
 C
         parameter
      $ (mx2=im*jm      ,maxp=250000    ,nlim=1         ,maxterms=4     ,
@@ -33,7 +33,7 @@ C
 	parameter
      $ (polcoms=.false.,occam=.false.  ,pom=.false.    ,nemo=.true.    ,
      $  circumpolar=.false.            ,slevel=.false. ,newname=.false.,
-     $  TSopt=.true.   ,Iopt=.false.   ,beaching=.false.               ,
+     $  TSopt=.false.  ,Iopt=.false.   ,beaching=.false.               ,
      $  oil=.false.)
 C
 C***********************************************************************
