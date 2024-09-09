@@ -5,7 +5,7 @@
 
 ## Introduction
 
-HAL is a Lagrangian model for calculating the transport of zooplankton such as copepods, the egg and larval phases of marine fish, and the early life stages of crustacea such as krill and lobsters.
+HAL is a Lagrangian model for calculating the transport of zooplankton such as copepods, the egg and larval phases of marine fish, and the early life stages of crustaceans such as krill and lobsters.
 
 ## Model Overview
 
@@ -13,7 +13,7 @@ HAL is written in FORTRAN and has evolved over many years to now offer a range o
 
 * Growth and development, based on temperature-dependent relationships, with default values for plaice
 * Egg buoyancy, specified as either a vertical velocity or as a particle density, from which a vertical velocity is calculated based on a comparison of the particle and local water densities
-* Diel vertical migration, either nocturnal or reverse migration
+* Diel vertical migration, specified as either nocturnal or diurnal (reverse) upward migration
 * Directed horizontal swimming, relative to currents or bathymetric gradients
 * Transport with sea ice
 * Maximum and minimum depths of vertical distribution

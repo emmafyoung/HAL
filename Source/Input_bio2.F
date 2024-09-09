@@ -123,6 +123,11 @@ c Convert vertical migration speeds to m/s
          endif
          eggdiam(i)=eggdiam(i)/1000.
          VMvel(i)=VMvel(i)/100.
+c If species is passive set buotyp to v and buoyancy to zero
+         if (species.eq.'passive') then
+          buoytyp(i)='v'
+          buoyancy(i)=0.
+         endif
         Enddo
 
 c Call subroutine to assign target depths to particles with diapause

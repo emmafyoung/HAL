@@ -18,6 +18,8 @@ c consider dependence of swimming speed on larval length.
         Real :: rise
         Real :: p, q, alpha, beta, gamma, delta
 
+        bwlarvae(i)=0.
+
         if (mortalityYN.eq.'n'.or.(T-Pstart_T(i)).eq.0) goto 3002
 
 c Mortality formula taken from Pepin (1991)

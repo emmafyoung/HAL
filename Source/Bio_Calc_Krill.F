@@ -11,6 +11,7 @@ c Also includes an option for directed swimming.
 
 c Vertical migration
 
+        bwlarvae(i)=0.
         If (migrationYN.eq.'n') goto 3001
         If (VMtyp(part_st(i)).eq.'d') then
          If (light(i).eq.'y') bwlarvae(i)=VMvel(part_st(i))
