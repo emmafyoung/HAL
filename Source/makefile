@@ -32,7 +32,7 @@ sr26=Bio_Calc_Copepod
 sr27=Calc_dens
 
 FC=ifort
-CO=-O2
+CO=-O2 -fp-model=precise
 
 objects1 = $(mod1).o $(sr5).o $(sr8).o $(sr1).o $(sr4).o $(sr6).o $(sr7).o $(sr9).o $(sr10).o $(sr11).o $(sr12).o $(sr13).o $(sr14).o $(sr15).o $(sr16).o $(sr17).o $(sr18).o $(sr19).o $(sr20).o $(sr21).o $(sr22).o $(sr23).o $(sr24).o $(sr25).o $(sr26).o $(sr27).o $(main).o
 
