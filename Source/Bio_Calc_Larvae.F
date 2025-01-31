@@ -105,11 +105,11 @@ c : 'd' for larvae at the surface during the day
 c : 'n' for larvae at the surface during the night
 
             If (VMtyp(part_st(i)).eq.'d') then
-             If (light(i).eq.'y') bwlarvae(i)=VMvel(part_st(i))
-             If (light(i).eq.'n') bwlarvae(i)=VMvel(part_st(i))*(-1.)
+             If (light(i).eq.'y') bwlarvae(i)=VMvela(part_st(i))
+             If (light(i).eq.'n') bwlarvae(i)=VMveld(part_st(i))*(-1.)
             Elseif (VMtyp(part_st(i)).eq.'n') then
-             If (light(i).eq.'y') bwlarvae(i)=VMvel(part_st(i))*(-1.)
-             If (light(i).eq.'n') bwlarvae(i)=VMvel(part_st(i))
+             If (light(i).eq.'y') bwlarvae(i)=VMveld(part_st(i))*(-1.)
+             If (light(i).eq.'n') bwlarvae(i)=VMvela(part_st(i))
             Endif
            Endif
 

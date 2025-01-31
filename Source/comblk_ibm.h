@@ -98,10 +98,10 @@ C
      $  Salin          ,eggdiam        ,Partwt         ,sealevelrise   ,
      $  Tempav_bio     ,stageprogress  ,bwlarvae       ,hlev           ,
      $  Hzeta_a        ,Hzeta_b        ,lat            ,dlat           ,
-     $  Icep           ,VMvel          ,swimu          ,swimv          ,
+     $  Icep           ,VMveld         ,swimu          ,swimv          ,
      $  swim_speed     ,bwegg          ,dia_down       ,dia_up         ,
      $  partd_dia      ,nhours         ,Tempav         ,Salinav        ,
-     $  eggd
+     $  eggd           ,VMvela
      
         real*8
      $  Xelev          ,Yelev          ,Xu             ,Yu             ,
@@ -137,12 +137,12 @@ C
      $  iz1(nlim)      ,iz2(nlim)      ,iu1(nlim)      ,iu2(nlim)      ,
      $  iv1(nlim)      ,iv2(nlim)      ,biocalcfreq(nstage)            ,
      $  iu(nlim)       ,mu(Mx2u)       ,velfiles(20)   ,mv(Mx2u)       ,
-     $  luinput(20)    ,luoutput(5)    ,Icep(Maxp)     ,VMvel(nstage)  ,
+     $  luinput(20)    ,luoutput(5)    ,Icep(Maxp)     ,VMveld(nstage) ,
      $  buoytyp(nstage),stage_spec(nstage)             ,light(Maxp)    ,
      $  VMtyp(nstage)  ,diapause_cue(nstage)           ,
      $  dia_down(nstage)               ,dia_up(nstage) ,dia_flag(Maxp) ,
      $  partd_dia(Maxp),bathy_flag(Maxp)               ,nhours(Maxp)   ,
-     $  Tempav(Maxp)   ,Salinav(Maxp)  ,eggd(Maxp)
+     $  Tempav(Maxp)   ,Salinav(Maxp)  ,eggd(Maxp)     ,VMvela(nstage)
 C
 C-----------------------------------------------------------------------
 C

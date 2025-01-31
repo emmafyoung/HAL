@@ -50,9 +50,9 @@ c for daylight hours diapause cue
         If (dia_flag(i).eq.0.or.dia_flag(i).eq.1) then
          bwlarvae(i)=0.
         Elseif (dia_flag(i).eq.3) then
-         bwlarvae(i)=VMvel(part_st(i))*(-1.)
+         bwlarvae(i)=VMveld(part_st(i))*(-1.)
         Elseif (dia_flag(i).eq.4) then
-         bwlarvae(i)=VMvel(part_st(i))
+         bwlarvae(i)=VMvela(part_st(i))
         Endif
 
  4001   Return

@@ -88,7 +88,8 @@ c Loop round all stages
          Read (uniti,105) buoyancy(istage)
          Read (uniti,109) eggdiam(istage)
          Read (uniti,102) VMtyp(istage)
-         Read (uniti,110) VMvel(istage)
+         Read (uniti,110) VMveld(istage)
+         Read (uniti,110) VMvela(istage)
          Read (uniti,102) diapause_cue(istage)
          Read (uniti,108) dia_down(istage)
          Read (uniti,108) dia_up(istage)
@@ -122,7 +123,8 @@ c Convert vertical migration speeds to m/s
           buoyancy(i)=0.0
          endif
          eggdiam(i)=eggdiam(i)/1000.
-         VMvel(i)=VMvel(i)/100.
+         VMveld(i)=VMveld(i)/100.
+         VMvela(i)=VMvela(i)/100.
 c If species is passive set buotyp to v and buoyancy to zero
          if (species.eq.'passive') then
           buoytyp(i)='v'
